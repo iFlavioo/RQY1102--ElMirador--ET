@@ -49,7 +49,9 @@ https://www.figma.com/make/75ldJqLmPHcEg88PUbjUVm/Prototipo-gesti%C3%B3n-comunid
 
 # 07_ [Control_De_Versiones_y_Cambios.xlsx](https://github.com/user-attachments/files/29778998/Historial_de_Cambios.xlsx)
 
-# 08_ [DAS+(Documento+Arquitectura+Sistema)+-+Parte+2.pdf](https://github.com/user-attachments/files/29779019/DAS%2B.Documento%2BArquitectura%2BSistema.%2B-%2BParte%2B2.pdf)
+# 08_ [DAS+(Documento+Arquitectura+Sistema).pdf](https://github.com/user-attachments/files/29779019/DAS%2B.Documento%2BArquitectura%2BSistema.%2B-%2BParte%2B2.pdf)
+
+
 
 
 
