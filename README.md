@@ -21,7 +21,7 @@
 [diagrama_despliegue.pdf](https://github.com/user-attachments/files/29778778/diagrama_despliegue.pdf)
 
 
-# 05_ [Prototipo.txt](https://github.com/user-attachments/files/29778804/Prototipo.txt)
+# 05_[Prototipo.txt](https://github.com/user-attachments/files/29778804/Prototipo.txt)
 https://www.figma.com/make/75ldJqLmPHcEg88PUbjUVm/Prototipo-gesti%C3%B3n-comunidades-residenciales?fullscreen=1&t=vau2iKf2BYY8ZAPd-1&code-node-id=0-9
 
 #
