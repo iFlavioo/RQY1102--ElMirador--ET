@@ -3,8 +3,7 @@
 
 # Integrantes: Sebastian Escalona, Alexis Urrutia, Flavio Bustos
 
-
-# 01_[Presentacion.PPTX](https://github.com/user-attachments/files/29778678/PRESEN_1.-.copia.1.PPTX)
+# 01_ [Presentacion.PPTX](https://github.com/user-attachments/files/29779549/PRESEN_1.-.copia.2.PPTX)
 
 # 02_[Carta_gantt.pdf](https://github.com/user-attachments/files/29778693/carta_gantt.pdf)
 
