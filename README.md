@@ -1,5 +1,6 @@
 # RQY1102--ElMirador--ET
 
+
 # Integrantes: Sebastian Escalona, Alexis Urrutia, Flavio Bustos
 
 
@@ -31,6 +32,7 @@ https://www.figma.com/make/75ldJqLmPHcEg88PUbjUVm/Prototipo-gesti%C3%B3n-comunid
 
 [2.pdf](https://github.com/user-attachments/files/29778966/3.pdf)
 
+[3.pdf](https://github.com/user-attachments/files/29779296/3.3.pdf)
 
 [4.pdf](https://github.com/user-attachments/files/29778982/6.pdf)
 
